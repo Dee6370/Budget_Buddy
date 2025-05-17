@@ -2,7 +2,7 @@
 
 A comprehensive personal finance management application that allows users to track their income, expenses, and overall budget.
 
-![Budget Tracker Screenshot](screenshot.png)
+![Budget Tracker Screenshot](./frontend/src/WhatsApp%20Image%202025-05-17%20at%2015.25.17_4b749fd2.jpg)
 
 ## Features
 

@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/memoizee": "^0.4.12",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "markdown-pdf": "^11.0.0",
+    "memoizee": "^0.4.17",
+    "node-fetch": "^3.3.2",
+    "openid-client": "^6.5.0"
+  }
+}
